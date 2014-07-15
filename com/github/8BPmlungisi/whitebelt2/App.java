@@ -1,4 +1,4 @@
-package com.github.mlungisi.whitebelt2;
+package com.github.8BPmlungisi.whitebelt2;
 import java.time.LocalDateTime;
 import java.time.temporal.ChronoUnit;
 
